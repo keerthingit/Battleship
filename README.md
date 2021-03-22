@@ -1,4 +1,4 @@
-# BattleShip🚢
+# Battleship🚢
 _Battleship user vs. computer game written in C# with Visual Studio 2019_
 
 
